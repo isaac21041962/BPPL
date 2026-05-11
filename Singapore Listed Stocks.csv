@@ -1,0 +1,653 @@
+﻿S.No.,Company Name,Code,Sector
+1,17LIVE,VT1.SI,Software & IT Services
+2,17LIVE GROUP,LVR.SI,
+3,3Cnergy Ltd,PPC.SI,
+4,5E Resources,NLC.SI,Industrial & Commercial Services
+5,8Telecom,AZG.SI,Technology Equipment
+6,9R,1Y1.SI,Industrial Goods
+7,A-Smart,BQC.SI,Industrial & Commercial Services
+8,A-Sonic Aero,BTJ.SI,Transportation
+9,Abterra,L5I.SI,Energy - Fossil Fuels
+10,Accrelist Ltd,QZG.SI,Technology Equipment
+11,Acesian Partners,5FW.SI,Industrial & Commercial Services
+12,Acma,AYV.SI,Industrial Goods
+13,AcroMeta,43F.SI,Industrial & Commercial Services
+14,Addvalue Tech,A31.SI,Technology Equipment
+15,Advanced,BLZ.SI,Energy - Fossil Fuels
+16,Advanced Systems,5TY.SI,Technology Equipment
+17,Advancer Global,43Q.SI,Industrial & Commercial Services
+18,Adventus,5EF.SI,Real Estate
+19,Aedge Group,XVG.SI,Industrial & Commercial Services
+20,AEM SGD,AWX.SI,Technology Equipment
+21,AEM USD,XWA.SI,
+22,AF Global,L38.SI,Cyclical Consumer Services
+23,AGV,1A4.SI,Holding Companies
+24,Alita Resources,40F.SI,Mineral Resources
+25,Alliance HC,MIJ.SI,Healthcare Services
+26,AlphaDX,VVL.SI,Software & IT Services
+27,Alpina Holdings,ZXY.SI,Industrial & Commercial Services
+28,Alset,40V.SI,Real Estate
+29,Amara,A34.SI,Cyclical Consumer Services
+30,Amcorp Global,S9B.SI,Real Estate
+31,AMOS Group,49B.SI,Industrial Goods
+32,Amplefield Ltd,AOF.SI,Real Estate
+33,AMTD IDEA OV,HKB.SI,Banking & Investment Services
+34,AnAn Intl,Y35.SI,Energy - Fossil Fuels
+35,Anchun Intl,BTX.SI,Industrial Goods
+36,AnnAik,A52.SI,Mineral Resources
+37,Annica,5AL.SI,Energy - Fossil Fuels
+38,Aoxin Q & M,1D4.SI,Healthcare Services
+39,AP Oil,5AU.SI,Chemicals
+40,AP Strategic,5RA.SI,Cyclical Consumer Services
+41,APAC Realty,CLN.SI,Real Estate
+42,Ascent Bridge,AWG.SI,Mineral Resources
+43,Asia Enterprises,A55.SI,Mineral Resources
+44,Asia Vets,5RE.SI,Healthcare Services
+45,AsiaPhos,5WV.SI,Chemicals
+46,Asiatic,5CR.SI,Industrial Goods
+47,ASL Marine,A04.SI,Industrial Goods
+48,Aspen,1F3.SI,Real Estate
+49,Aspial Corp,A30.SI,Cyclical Consumer Products
+50,Aspial Lifestyle,5UF.SI,Retailers
+51,Astaka,42S.SI,Real Estate
+52,Atlantic Nav,5UL.SI,Energy - Fossil Fuels
+53,Audience,1AZ.SI,Cyclical Consumer Services
+54,AusGroup,5GJ.SI,Energy - Fossil Fuels
+55,Avarga,U09.SI,Cyclical Consumer Products
+56,Avi-Tech Hldg,1R6.SI,Technology Equipment
+57,AVJennings A$,A05.SI,Real Estate
+58,Axington,42U.SI,Industrial & Commercial Services
+59,Axington R,IXOR.SI,
+60,Axington R1,QPQR.SI,
+61,Azeus,BBW.SI,Software & IT Services
+62,Aztech Gbl,8AZ.SI,Industrial Goods
+63,B&M Hldg,CJN.SI,Banking & Investment Services
+64,BACUI TECH,YYB.SI,Industrial & Commercial Services
+65,Baker Technology,BTP.SI,Energy - Fossil Fuels
+66,Ban Leong,B26.SI,Technology Equipment
+67,Banyan Tree,B58.SI,Cyclical Consumer Services
+68,BBR,KJ5.SI,Industrial & Commercial Services
+69,Beng Kuang,BEZ.SI,Industrial & Commercial Services
+70,Best World,CGN.SI,Retailers
+71,Beverly JCG,VFP.SI,Healthcare Services
+72,BH Global,BQN.SI,Industrial Goods
+73,Biolidics,8YY.SI,Healthcare Services
+74,BlackGoldNatural,41H.SI,Energy - Fossil Fuels
+75,Boldtek,5VI.SI,Real Estate
+76,Bonvests,B28.SI,Cyclical Consumer Services
+77,Boustead,F9D.SI,Industrial & Commercial Services
+78,Boustead Proj,AVM.SI,Industrial & Commercial Services
+79,BRC Asia,BEC.SI,Cyclical Consumer Products
+80,Broadway Ind,B69.SI,Industrial Goods
+81,Brook Crompton,AWC.SI,Industrial Goods
+82,Bukit Sembawang,B61.SI,Real Estate
+83,Bumitama Agri,P8Z.SI,Food & Beverages
+84,Bund Center,BTE.SI,Real Estate
+85,Camsing Hc,BAC.SI,Retailers
+86,Capital World,1D5.SI,Real Estate
+87,CapitaLandInvest,9CI.SI,Real Estate
+88,Captii,AWV.SI,Telecommunications Services
+89,Casa,C04.SI,Cyclical Consumer Products
+90,CDW,BXE.SI,Technology Equipment
+91,Centurion,OU8.SI,Real Estate
+92,CFM,5EB.SI,Industrial Goods
+93,CH Offshore,C13.SI,Energy - Fossil Fuels
+94,Charisma Energy,5QT.SI,Utilities
+95,Chasen,5NV.SI,Transportation
+96,Chemical Ind,C05.SI,Chemicals
+97,China Aviation,G92.SI,Transportation
+98,China Env,5OU.SI,Industrial & Commercial Services
+99,China Env Res,RS1.SI,Automobiles & Auto Parts
+100,China Everbright,U9E.SI,Utilities
+101,China Fishery,B0Z.SI,Food & Beverages
+102,China Intl,BEH.SI,Industrial & Commercial Services
+103,China Mining,BHD.SI,Real Estate
+104,China Yuanbang,BCD.SI,Real Estate
+105,ChinaKangdaFood,P74.SI,Food & Beverages
+106,ChinaKundaTech,GU5.SI,Chemicals
+107,ChinaSunsine,QES.SI,Chemicals
+108,Choo Chiang,42E.SI,Industrial Goods
+109,Chuan Hup,C33.SI,Real Estate
+110,CityDev,C09.SI,Real Estate
+111,Civmec,P9D.SI,Industrial & Commercial Services
+112,Clearbridge,1H3.SI,Healthcare Services
+113,CNMC Goldmine,5TP.SI,Mineral Resources
+114,Comba,STC.SI,
+115,Combine Will,N0Z.SI,Personal & Household Products & Services
+116,ComfortDelGro,C52.SI,Transportation
+117,Cordlife,P8A.SI,Healthcare Services
+118,Cortina,C41.SI,Retailers
+119,COSCO SHP SG,F83.SI,Transportation
+120,CosmoSteel,B9S.SI,Mineral Resources
+121,Courage Inv,CIN.SI,Transportation
+122,Creative,C76.SI,Technology Equipment
+123,CreditBureauAsia,TCU.SI,Industrial & Commercial Services
+124,CSC,C06.SI,Industrial & Commercial Services
+125,Darco Water Tech,BLR.SI,Utilities
+126,Datapulse Tech,BKW.SI,Real Estate
+127,DBS,D05.SI,Banking & Investment Services
+128,Debao Property,BTF.SI,Real Estate
+129,Del Monte Pac,D03.SI,Food & Beverages
+130,Delfi,P34.SI,Food & Beverages
+131,DFIRG USD,D01.SI,Food & Drug Retailing
+132,Digilife Tech,BAI.SI,Telecommunications Services
+133,Don Agro,GRQ.SI,Food & Beverages
+134,Dragon,MT1.SI,Industrial Goods
+135,Duty Free Intl,5SO.SI,Retailers
+136,Dyna-Mac,NO4.SI,Energy - Fossil Fuels
+137,Econ Healthcare,EHG.SI,Healthcare Services
+138,EcoWise,5CT.SI,Industrial & Commercial Services
+139,Edition,5HG.SI,Food & Beverages
+140,Eindec,42Z.SI,Industrial & Commercial Services
+141,Ellipsiz,BIX.SI,Technology Equipment
+142,Emperador Inc.,EMI.SI,Food & Beverages
+143,Eneco Energy,R14.SI,Energy - Fossil Fuels
+144,EnGro,S44.SI,Mineral Resources
+145,Envictus,BQD.SI,Cyclical Consumer Services
+146,Enviro-Hub,L23.SI,Industrial & Commercial Services
+147,ES,5RC.SI,Industrial Goods
+148,ETC Singapore,1C0.SI,Real Estate
+149,EuroSports Gbl,5G1.SI,Retailers
+150,Ever Glory,ZKX.SI,Industrial & Commercial Services
+151,Ezra,5DN.SI,Energy - Fossil Fuels
+152,F & N,F99.SI,Food & Beverages
+153,Falcon Energy,5FL.SI,Energy - Fossil Fuels
+154,Far East,5TJ.SI,Industrial Goods
+155,Far East Orchard,O10.SI,Cyclical Consumer Services
+156,Federal Int,BDU.SI,Energy - Fossil Fuels
+157,Figtree,5F4.SI,Real Estate
+158,First Resources,EB5.SI,Food & Beverages
+159,First Sponsor,ADN.SI,Real Estate
+160,FJ Benjamin,F10.SI,Retailers
+161,Food Empire,F03.SI,Food & Beverages
+162,Forise Int,8A1.SI,Industrial & Commercial Services
+163,FortressMinerals,OAJ.SI,Mineral Resources
+164,Frasers Property,TQ5.SI,Real Estate
+165,Frencken,E28.SI,Industrial Goods
+166,Fu Yu,F13.SI,Industrial Goods
+167,Full Apex,BTY.SI,Chemicals
+168,Fuxing China,AWK.SI,Cyclical Consumer Products
+169,G Invacom,QS9.SI,Technology Equipment
+170,Gallant Venture,5IG.SI,Automobiles & Auto Parts
+171,GCCP,41T.SI,Mineral Resources
+172,GDS Global,5VP.SI,Cyclical Consumer Products
+173,Genting Sing,G13.SI,Cyclical Consumer Services
+174,Geo Energy Res,RE4.SI,Energy - Fossil Fuels
+175,GHY Culture,XJB.SI,Cyclical Consumer Services
+176,Global Inv,B73.SI,Collective Investments
+177,Global Testing,AYN.SI,Technology Equipment
+178,Golden Agri-Res,E5H.SI,Food & Beverages
+179,Goodland,5PC.SI,Real Estate
+180,GP Industries,G20.SI,Industrial Goods
+181,Grand Banks,G50.SI,Cyclical Consumer Products
+182,Grand Venture,JLB.SI,Industrial Goods
+183,Great Eastern,G07.SI,Insurance
+184,Green Build,Y06.SI,Industrial & Commercial Services
+185,GRP,BLU.SI,Automobiles & Auto Parts
+186,GS Hldg,43A.SI,Industrial & Commercial Services
+187,GSH,BDX.SI,Industrial & Commercial Services
+188,GSS Energy,41F.SI,Industrial Goods
+189,GuocoLand,F17.SI,Real Estate
+190,H2G Green,5AI.SI,Cyclical Consumer Products
+191,Hafary,5VS.SI,Cyclical Consumer Products
+192,Hai Leck,BLH.SI,Industrial & Commercial Services
+193,Halcyon Agri,5VJ.SI,Automobiles & Auto Parts
+194,Hatten Land,PH0.SI,Real Estate
+195,Haw Par,H02.SI,Pharmaceuticals & Medical Research
+196,HC Surgical,1B1.SI,Healthcare Services
+197,HealthBank,40B.SI,Cyclical Consumer Services
+198,Heatec Jietong,5OR.SI,Industrial Goods
+199,Heeton,5DP.SI,Real Estate
+200,Hengyang Petro,5PD.SI,Energy - Fossil Fuels
+201,HG Metal,BTG.SI,Mineral Resources
+202,HGH,5GZ.SI,Mineral Resources
+203,Hiap Hoe,5JK.SI,Real Estate
+204,Hiap Tong,5PO.SI,Banking & Investment Services
+205,HL Global Ent,AVX.SI,Cyclical Consumer Services
+206,Ho Bee Land,H13.SI,Real Estate
+207,Hock Lian Seng,J2T.SI,Industrial & Commercial Services
+208,Hoe Leong,H20.SI,Industrial Goods
+209,Hong Fok,H30.SI,Real Estate
+210,Hong Lai Huat,CTO.SI,Real Estate
+211,Hong Leong Asia,H22.SI,Automobiles & Auto Parts
+212,Hong Leong Fin,S41.SI,Banking & Investment Services
+213,HongkongLand USD,H78.SI,Real Estate
+214,Hor Kew,BBP.SI,Industrial & Commercial Services
+215,Hosen,5EV.SI,Food & Drug Retailing
+216,Hotel Grand,H18.SI,Cyclical Consumer Services
+217,Hotel Royal,H12.SI,Cyclical Consumer Services
+218,Hotung Inv,BLS.SI,Banking & Investment Services
+219,HPL,H15.SI,Cyclical Consumer Services
+220,HRnetGroup,CHZ.SI,Industrial & Commercial Services
+221,Huationg Global,41B.SI,Industrial & Commercial Services
+222,Hyphens Pharma,1J5.SI,Pharmaceuticals & Medical Research
+223,ICP Ltd,5I4.SI,Cyclical Consumer Services
+224,IFAST,AIY.SI,Financial Technology (Fintech) & Infrastructure
+225,IFS Capital,I49.SI,Banking & Investment Services
+226,IHH,Q0F.SI,Healthcare Services
+227,Imperium Crown,5HT.SI,Real Estate
+228,Incredible,RDR.SI,Technology Equipment
+229,Indofood Agri,5JS.SI,Food & Beverages
+230,InnoTek,M14.SI,Technology Equipment
+231,Interra Resource,5GI.SI,Energy - Fossil Fuels
+232,Intl Cement,KUO.SI,Mineral Resources
+233,Intraco,I06.SI,Industrial & Commercial Services
+234,IPC Corp,AZA.SI,Cyclical Consumer Services
+235,IPS Securex,42N.SI,Technology Equipment
+236,ISDN,I07.SI,Industrial Goods
+237,ISEC,40T.SI,Healthcare Services
+238,Isetan,I15.SI,Retailers
+239,ISOTeam,5WF.SI,Industrial & Commercial Services
+240,iWOW Tech,NXR.SI,Technology Equipment
+241,IX Biopharma,42C.SI,Pharmaceuticals & Medical Research
+242,Jadason,J03.SI,Technology Equipment
+243,Japan Foods,5OI.SI,Cyclical Consumer Services
+244,Japfa,UD2.SI,Food & Beverages
+245,Jardine C&C,C07.SI,Consumer Goods Conglomerates
+246,Jason Marine,5PF.SI,Technology Equipment
+247,Jasper Inv,FQ7.SI,Transportation
+248,Jawala,1J7.SI,Applied Resources
+249,JB Foods,BEW.SI,Food & Beverages
+250,JEP,1J4.SI,Industrial & Commercial Services
+251,JES Intl,EG0.SI,Industrial Goods
+252,Jiutian Chemical,C8R.SI,Chemicals
+253,JMH USD,J36.SI,Consumer Goods Conglomerates
+254,Joyas Intl,E9L.SI,Banking & Investment Services
+255,Jubilee,NHD.SI,Industrial Goods
+256,Jumbo,42R.SI,Cyclical Consumer Services
+257,Karin Tech,K29.SI,Technology Equipment
+258,Katrina,1A0.SI,Cyclical Consumer Services
+259,Kencana Agri,BNE.SI,Food & Beverages
+260,Keong Hong,5TT.SI,Industrial & Commercial Services
+261,Keppel Corp,BN4.SI,Consumer Goods Conglomerates
+262,Khong Guan,K03.SI,Food & Beverages
+263,Kim Heng,5G2.SI,Energy - Fossil Fuels
+264,Kimly,1D0.SI,Cyclical Consumer Services
+265,KingsmenCreative,5MZ.SI,Industrial & Commercial Services
+266,Koda,BJZ.SI,Cyclical Consumer Products
+267,Koh Bros,K75.SI,Industrial & Commercial Services
+268,Koh Eco,5HV.SI,Industrial & Commercial Services
+269,KOP,5I1.SI,Cyclical Consumer Services
+270,Kori,5VC.SI,Industrial & Commercial Services
+271,Koyo Intl,5OC.SI,Industrial & Commercial Services
+272,KrisEnergy,SK3.SI,Energy - Fossil Fuels
+273,KSH,ER0.SI,Industrial & Commercial Services
+274,KTL Global,EB7.SI,Cyclical Consumer Services
+275,KTMG,XCF.SI,Cyclical Consumer Products
+276,Leader Env,LS9.SI,Industrial & Commercial Services
+277,Ley Choon,Q0X.SI,Industrial & Commercial Services
+278,LHN,41O.SI,Real Estate
+279,LHT,BEI.SI,Applied Resources
+280,LifeBrandz,1D3.SI,Cyclical Consumer Services
+281,Lincotrade,BFT.SI,Retailers
+282,Lion Asiapac,BAZ.SI,Mineral Resources
+283,Livingstone,PRH.SI,Healthcare Services
+284,LMS Compliance,LMS.SI,Industrial & Commercial Services
+285,Lonza,O6Z.SI,Pharmaceuticals & Medical Research
+286,Lorenzo Intl,5IE.SI,Retailers
+287,Low Keng Huat,F1E.SI,Industrial & Commercial Services
+288,LS 2 Holdings,ENV.SI,Industrial & Commercial Services
+289,Lum Chang,L19.SI,Industrial & Commercial Services
+290,Luminor,5UA.SI,Real Estate
+291,Lung Kee Bermuda,L09.SI,Industrial Goods
+292,Luxking,BKK.SI,Chemicals
+293,LY Corp,1H8.SI,Cyclical Consumer Products
+294,Man Oriental USD,M04.SI,Cyclical Consumer Services
+295,MarcoPolo Marine,5LY.SI,Transportation
+296,Maruwa Yen1k,M12.SI,Technology Equipment
+297,Mary Chia,5OX.SI,Personal & Household Products & Services
+298,Matex Intl,M15.SI,Chemicals
+299,MDR Limited,Y3D.SI,Retailers
+300,MediLifestyle,Z4D.SI,Healthcare Services
+301,Medinex,OTX.SI,Industrial & Commercial Services
+302,MegaChem,5DS.SI,Chemicals
+303,MeGroup,SJY.SI,Automobiles & Auto Parts
+304,Memiontec Hldgs,TWL.SI,Industrial & Commercial Services
+305,Mencast,5NF.SI,Industrial & Commercial Services
+306,Mercurius,5RF.SI,Real Estate
+307,Mermaid Maritime,DU4.SI,Energy - Fossil Fuels
+308,Meta Health,5DX.SI,Retailers
+309,Metech Intl,V3M.SI,Industrial & Commercial Services
+310,Metis Energy,L02.SI,Utilities
+311,Metro,M01.SI,Retailers
+312,Mewah Intl,MV4.SI,Food & Beverages
+313,MFG Integration,M11.SI,Technology Equipment
+314,Micro-Mechanics,5DD.SI,Technology Equipment
+315,Midas,5EN.SI,Mineral Resources
+316,MindChamps,CNE.SI,Personal & Household Products & Services
+317,Miyoshi,M03.SI,Technology Equipment
+318,MM2 Asia,1B0.SI,Cyclical Consumer Services
+319,MM2 Asia R,9KPR.SI,
+320,MM2 Asia R1,VP6R.SI,
+321,MoneyMax Fin,5WJ.SI,Retailers
+322,Mooreast,1V3.SI,Mineral Resources
+323,MSC,NPW.SI,Mineral Resources
+324,MSM Intl,5QR.SI,Industrial Goods
+325,MTQ,M05.SI,Energy - Fossil Fuels
+326,Multi-Chem,AWZ.SI,Technology Equipment
+327,Mun Siong Engg,MF6.SI,Industrial & Commercial Services
+328,Murata Yen1k,PJX.SI,Technology Equipment
+329,MYP,F86.SI,Real Estate
+330,Nam Cheong,N4E.SI,Industrial Goods
+331,Nam Lee Metal,G0I.SI,Cyclical Consumer Products
+332,Nanofilm,MZH.SI,Chemicals
+333,Natural Cool,5IF.SI,Industrial & Commercial Services
+334,NauticAWT,42D.SI,Cyclical Consumer Services
+335,NeraTel,N01.SI,Technology Equipment
+336,Net Pacific Fin,5QY.SI,Banking & Investment Services
+337,New Silkroutes,BMT.SI,Healthcare Services
+338,New Toyo,N08.SI,Applied Resources
+339,New Wave,5FX.SI,Mineral Resources
+340,Niks Prof,NPL.SI,Personal & Household Products & Services
+341,NIO Inc. USD OV,NIO.SI,Automobiles & Auto Parts
+342,Nippecraft,N32.SI,Applied Resources
+343,No Signboard,1G6.SI,Cyclical Consumer Services
+344,Nomura Yen1k,N33.SI,Banking & Investment Services
+345,NoonTalk Media,SEJ.SI,Cyclical Consumer Services
+346,Nordic,MR7.SI,Industrial & Commercial Services
+347,Novo Tellus SPAC,NTA.SI,Holding Companies
+348,NSL,N02.SI,Mineral Resources
+349,Ntegrator Hldg,WVJ.SI,Retailers
+350,NutryFarm,AZT.SI,Food & Beverages
+351,OCBC Bank,O39.SI,Banking & Investment Services
+352,Ocean Sky Intl,1B6.SI,Industrial & Commercial Services
+353,Oiltek,HQU.SI,Food & Beverages
+354,OIO,KUX.SI,Financial Technology (Fintech) & Infrastructure
+355,OKH Global,S3N.SI,Industrial & Commercial Services
+356,OKP,5CF.SI,Industrial & Commercial Services
+357,Olam Group,VC2.SI,Food & Beverages
+358,Old Chang Kee,5ML.SI,Cyclical Consumer Services
+359,Olive Tree,1H2.SI,Real Estate
+360,OneApex,5SY.SI,Real Estate
+361,Ossia Intl,O08.SI,Retailers
+362,OTS Holdings,OTS.SI,Food & Beverages
+363,OUE,LJ3.SI,Real Estate
+364,OUE Healthcare,5WA.SI,Healthcare Services
+365,Ouhua Energy,AJ2.SI,Energy - Fossil Fuels
+366,Overseas Edu,RQ1.SI,Academic & Educational Services
+367,Oxley,5UX.SI,Real Estate
+368,OxPay Financial,TVV.SI,Industrial & Commercial Services
+369,Pacific Andes,P11.SI,Food & Beverages
+370,Pacific Century,P15.SI,Holding Companies
+371,PacificRadiance,RXS.SI,Energy - Fossil Fuels
+372,Pan Hong,P36.SI,Real Estate
+373,PanUnited,P52.SI,Mineral Resources
+374,Parkson Retail,O9E.SI,Retailers
+375,Pasture Holdings,UUK.SI,Healthcare Services
+376,PEC,IX2.SI,Energy - Fossil Fuels
+377,Pegasus SPAC,PGS.SI,Holding Companies
+378,Penguin Intl,BTM.SI,Transportation
+379,Pharmesis Intl,BFK.SI,Pharmaceuticals & Medical Research
+380,PlatoCapital,YYN.SI,Software & IT Services
+381,PNE Industries,BDA.SI,Industrial Goods
+382,Polaris,5BI.SI,Retailers
+383,Pollux Prop,5AE.SI,Real Estate
+384,Powermatic Data,BCY.SI,Technology Equipment
+385,Procurri,BVQ.SI,Software & IT Services
+386,PropNex,OYY.SI,Real Estate
+387,Prudential USD,K6S.SI,Insurance
+388,PSC Corporation,DM0.SI,Applied Resources
+389,Q&M Dental,QC7.SI,Healthcare Services
+390,QAF,Q01.SI,Food & Beverages
+391,Qian Hu,BCV.SI,Food & Beverages
+392,Quantum Health,V8Y.SI,Healthcare Services
+393,Raffles Edu,NR7.SI,Academic & Educational Services
+394,Raffles Infrastructure,LUY.SI,Industrial & Commercial Services
+395,Raffles Medical,BSL.SI,Healthcare Services
+396,RE&S Hldg,1G1.SI,Cyclical Consumer Services
+397,Reclaims Global,NEX.SI,Industrial & Commercial Services
+398,Reenova Investment,5EC.SI,Banking & Investment Services
+399,Regal Intl,UV1.SI,Real Estate
+400,Renaissance United,I11.SI,Utilities
+401,Resources Gbl,QSD.SI,Energy - Fossil Fuels
+402,Revez,RCU.SI,Software & IT Services
+403,Rex Intl,5WH.SI,Energy - Fossil Fuels
+404,RH PetroGas,T13.SI,Energy - Fossil Fuels
+405,Rich Capital,5G4.SI,Real Estate
+406,Riverstone,AP4.SI,Healthcare Services
+407,Sakae,5DO.SI,Cyclical Consumer Services
+408,Samko Timber,E6R.SI,Applied Resources
+409,SamuderaShipping,S56.SI,Transportation
+410,Samurai 2K,Y8E.SI,Chemicals
+411,Sanli Env,1000.SI,Industrial & Commercial Services
+412,Sapphire,BRD.SI,Industrial & Commercial Services
+413,Sarine Tech,U77.SI,Industrial Goods
+414,SATS,S58.SI,Transportation
+415,SBI Offshore,5PL.SI,Energy - Fossil Fuels
+416,SBS Transit,S61.SI,Transportation
+417,SDAI,5TI.SI,Retailers
+418,Seatrium,S51.SI,Industrial Goods
+419,Secura,43B.SI,Industrial & Commercial Services
+420,Sembcorp Ind,U96.SI,Utilities
+421,Sen Yue,5BS.SI,Mineral Resources
+422,Serial System,S69.SI,Industrial Goods
+423,Seroja Inv,IW5.SI,Transportation
+424,Sevens Atelier,5EW.SI,Industrial & Commercial Services
+425,SGX,S68.SI,Banking & Investment Services
+426,Shanaya,SES.SI,Industrial & Commercial Services
+427,Shanghai Turbo,AWM.SI,Industrial Goods
+428,Shangri-La HKD,S07.SI,Cyclical Consumer Services
+429,Sheffield Green,SGR.SI,Industrial & Commercial Services
+430,Shen Yao,A78.SI,Mineral Resources
+431,Sheng Siong,OV8.SI,Food & Drug Retailing
+432,Shenshan,BKV.SI,Food & Beverages
+433,Shopper360,1F0.SI,Cyclical Consumer Services
+434,SIA,C6L.SI,Transportation
+435,SIA Engineering,S59.SI,Transportation
+436,SIIC Environment,BHK.SI,Utilities
+437,Silverlake Axis,5CP.SI,Financial Technology (Fintech) & Infrastructure
+438,Sim Leisure,URR.SI,Cyclical Consumer Services
+439,Sin Heng Mach,BKA.SI,Industrial Goods
+440,Sinarmas Land,A26.SI,Industrial & Commercial Services
+441,Sincap,5UN.SI,Energy - Fossil Fuels
+442,Sing Inv & Fin,S35.SI,Banking & Investment Services
+443,Sing Paincare,FRQ.SI,Healthcare Services
+444,SingaporeKitchen,5WG.SI,Cyclical Consumer Products
+445,SingaporeLandGrp,U06.SI,Real Estate
+446,SingHoldings,5IC.SI,Real Estate
+447,SingPost,S08.SI,Transportation
+448,SingShipping,S19.SI,Industrial Goods
+449,Singtel,Z74.SI,Telecommunications Services
+450,Singtel 10,Z77.SI,
+451,Sinjia Land,5HH.SI,Cyclical Consumer Services
+452,Sino Grandness,T4B.SI,Food & Beverages
+453,SinoCloud Grp,LYY.SI,Software & IT Services
+454,Sinostar Pec,C9Q.SI,Energy - Fossil Fuels
+455,Sitra,5LE.SI,Applied Resources
+456,SLB Dev,1J0.SI,Real Estate
+457,SMI Vantage,Y45.SI,Banking & Investment Services
+458,Soilbuild Const,S7P.SI,Industrial & Commercial Services
+459,Soon Lian,5MD.SI,Mineral Resources
+460,Soup Holdings,5KI.SI,Cyclical Consumer Services
+461,Southern Arch,A33.SI,Real Estate
+462,Southern Pkg,BQP.SI,Applied Resources
+463,SouthernAlliance,QNS.SI,Mineral Resources
+464,Spackman,40E.SI,Cyclical Consumer Services
+465,Spura Finance,S23.SI,Banking & Investment Services
+466,Sri Trang Agro,NC2.SI,Automobiles & Auto Parts
+467,Sri Trang Gloves,STG.SI,Healthcare Services
+468,ST Engineering,S63.SI,Industrial Goods
+469,ST Group Food,DRX.SI,Cyclical Consumer Services
+470,Stamford Land,H07.SI,Cyclical Consumer Services
+471,Stamford Tyres,S29.SI,Automobiles & Auto Parts
+472,StarHub,CC3.SI,Telecommunications Services
+473,Straco,S85.SI,Cyclical Consumer Services
+474,Straits Trading,S20.SI,Mineral Resources
+475,SunMoonFood,AAJ.SI,Food & Beverages
+476,Sunpower,5GD.SI,Industrial Goods
+477,Sunright,S71.SI,Technology Equipment
+478,Suntar Eco-City,BKZ.SI,Pharmaceuticals & Medical Research
+479,SUTL Enterprise,BHU.SI,Cyclical Consumer Services
+480,TA,PA3.SI,Real Estate
+481,Taka Jewellery,42L.SI,Retailers
+482,TalkMed,5G3.SI,Healthcare Services
+483,Tat Seng Pkg,T12.SI,Applied Resources
+484,TC Auto,VI2.SI,Automobiles & Auto Parts
+485,TCIL HK$,T15.SI,Transportation
+486,TEE Intl,M1Z.SI,Industrial & Commercial Services
+487,Teho Intl,5OQ.SI,Industrial Goods
+488,TeleChoice Intl,T41.SI,Technology Equipment
+489,ThaiBev,Y92.SI,Food & Beverages
+490,Thakral,AWI.SI,Real Estate
+491,The Place Hldg,E27.SI,Holding Companies
+492,TheHourGlass,AGS.SI,Retailers
+493,Thomson Medical,A50.SI,Healthcare Services
+494,TIH,T55.SI,Collective Investments
+495,Tiong Seng,BFI.SI,Industrial & Commercial Services
+496,Tiong Woon,BQM.SI,Industrial Goods
+497,TJ DaRenTang USD,T14.SI,Pharmaceuticals & Medical Research
+498,Top Glove,BVA.SI,Healthcare Services
+499,Tosei,S2D.SI,Real Estate
+500,Totm Tech,42F.SI,Financial Technology (Fintech) & Infrastructure
+501,Travelite,BCZ.SI,Retailers
+502,Trek 2000 Intl,5AB.SI,Technology Equipment
+503,Trendlines,42T.SI,Banking & Investment Services
+504,TrickleStar,CYW.SI,Industrial Goods
+505,Tritech,5G9.SI,Industrial & Commercial Services
+506,Triyards,RC5.SI,Energy - Fossil Fuels
+507,TSH,KUH.SI,Cyclical Consumer Services
+508,TSH Resources,TSH.SI,
+509,TT Intl,T09.SI,Retailers
+510,Tuan Sing,T24.SI,Real Estate
+511,Tye Soon,BFU.SI,Automobiles & Auto Parts
+512,UGHealthcare,8K7.SI,Healthcare Services
+513,Uni-Asia Grp,CHJ.SI,Industrial & Commercial Services
+514,Union Gas,1F2.SI,Utilities
+515,Union Steel,BLA.SI,Mineral Resources
+516,United Food,AZR.SI,Chemicals
+517,Universal Res,BGO.SI,Energy - Fossil Fuels
+518,UnUsUaL,1D1.SI,Cyclical Consumer Services
+519,UOA,EH5.SI,Real Estate
+520,UOB,U11.SI,Banking & Investment Services
+521,UOB Kay Hian,U10.SI,Banking & Investment Services
+522,UOI,U13.SI,Insurance
+523,UOL,U14.SI,Real Estate
+524,USP Group,BRS.SI,Energy - Fossil Fuels
+525,V2Y Corp,V2Y.SI,Insurance
+526,Vallianz,WPC.SI,Transportation
+527,ValueMax,T6I.SI,Retailers
+528,Valuetronics,BN2.SI,Technology Equipment
+529,VCPlus,43E.SI,Mineral Resources
+530,Venture,V03.SI,Technology Equipment
+531,Versalink,40N.SI,Industrial & Commercial Services
+532,Vibrant Group,BIP.SI,Transportation
+533,VibroPower,BJD.SI,Utilities
+534,VICOM Ltd,WJP.SI,Industrial & Commercial Services
+535,Vividthree,OMK.SI,Cyclical Consumer Services
+536,Wee Hur,E3B.SI,Industrial & Commercial Services
+537,Willas-Array,BDR.SI,Technology Equipment
+538,Wilmar Intl,F34.SI,Food & Beverages
+539,Wilton Resources,5F7.SI,Mineral Resources
+540,Wing Tai,W05.SI,Real Estate
+541,WinkingStudios,WKS.SI,Industrial & Commercial Services
+542,Wong Fong Ind,1A1.SI,Industrial Goods
+543,World Precision,B49.SI,Industrial Goods
+544,XMH,BQF.SI,Industrial Goods
+545,Y Ventures,1F1.SI,Software & IT Services
+546,Yamada Green Res,BJV.SI,Food & Beverages
+547,Yanlord Land,Z25.SI,Real Estate
+548,Yeo Hiap Seng,Y03.SI,Food & Beverages
+549,YHI Intl,BPF.SI,Automobiles & Auto Parts
+550,Ying Li Intl,5DM.SI,Real Estate
+551,YKGI,YK9.SI,Cyclical Consumer Services
+552,Yoma Strategic,Z59.SI,Real Estate
+553,Yongmao,BKX.SI,Industrial Goods
+554,Yongnam,AXB.SI,Industrial & Commercial Services
+555,Yunnan Energy,T43.SI,Cyclical Consumer Products
+556,YuuZoo Networks,AFC.SI,Software & IT Services
+557,YZJ Fin Hldg,YF8.SI,Banking & Investment Services
+558,YZJ Shipbldg CNY,SO7.SI,
+559,YZJ Shipbldg SGD,BS6.SI,Industrial Goods
+560,Zheneng Jinjiang,BWM.SI,Renewable Energy
+561,Zhongmin Baihui,5SR.SI,Retailers
+562,Zhongxin Fruit,5EG.SI,Food & Beverages
+563,ZICO Hldgs,40W.SI,Banking & Investment Services
+564,Zixin,42W.SI,Food & Beverages
+565,Tai Sin Electric,500.SI,Industrial Goods
+566,3Cnergy,502.SI,Real Estate
+567,HS Optimus,504.SI,Cyclical Consumer Products
+568,AsiaMedic,505.SI,Healthcare Services
+569,Fuji Offset,508.SI,Industrial Goods
+570,Hiap Seng,510.SI,Industrial & Commercial Services
+571,Second Chance,528.SI,Retailers
+572,DISA,532.SI,Software & IT Services
+573,ABR,533.SI,Food & Beverages
+574,Tung Lok Rest,540.SI,Cyclical Consumer Services
+575,Abundance Intl,541.SI,Industrial & Commercial Services
+576,Noel Gifts Intl,543.SI,Retailers
+577,CSE Global,544.SI,Software & IT Services
+578,Medtecs Intl,546.SI,Healthcare Services
+579,King Wan,554.SI,Industrial & Commercial Services
+580,UMS,558.SI,Technology Equipment
+581,Spindex Ind,564.SI,Industrial Goods
+582,SHS,566.SI,Industrial & Commercial Services
+583,Vicplas Intl,569.SI,Healthcare Services
+584,Abundante,570.SI,Mineral Resources
+585,ASTI,575.SI,Technology Equipment
+586,KS Energy,578.SI,Energy - Fossil Fuels
+587,Oceanus,579.SI,Food & Drug Retailing
+588,Santak,580.SI,Industrial Goods
+589,Sunrise Shares,581.SI,Real Estate
+590,Progen,583.SI,Industrial & Commercial Services
+591,OEL,584.SI,Healthcare Services
+592,Asian Micro,585.SI,Utilities
+593,CapAllianz,594.SI,Energy - Fossil Fuels
+594,GKE,595.SI,Transportation
+595,Pavillon,596.SI,Cyclical Consumer Services
+596,Hyflux,600.SI,Utilities
+,,,
+Source:  The Singapore Stock Exchange ,,,
+,,,
+Trust Funds:,,,
+,,,
+S.No.,Company Name,Code,Sector
+1,AIMS APAC Reit,O5RU.SI,Real Estate
+2,ARA HTrust USD,XZL.SI,Real Estate
+3,Asian Pay Tv Tr,S7OU.SI,Cyclical Consumer Services
+4,BHG Retail Reit,BMGU.SI,Real Estate
+5,CapLand Ascendas REIT,A17U.SI,Real Estate
+6,CapLand Ascott T,HMN.SI,Real Estate
+7,CapLand China T,AU8U.SI,Real Estate
+8,CapLand India T,CY6U.SI,Real Estate
+9,CapLand IntCom T,C38U.SI,Real Estate
+10,CDL HTrust,J85.SI,Real Estate
+11,Cromwell Reit EUR,CWBU.SI,
+12,Cromwell Reit SGD,CWCU.SI,Real Estate
+13,Daiwa Hse Log Tr,DHLU.SI,Real Estate
+14,Dasin Retail Tr,CEDU.SI,Real Estate
+15,DigiCore Reit USD,DCRU.SI,Real Estate
+16,Eagle HTrust USD,LIW.SI,Real Estate
+17,EC World Reit,BWCU.SI,Real Estate
+18,EliteComREIT GBP,MXNU.SI,Real Estate
+19,ESR-LOGOS REIT,J91U.SI,Real Estate
+20,Far East HTrust,Q5T.SI,Real Estate
+21,First Reit,AW9U.SI,Real Estate
+22,Frasers Cpt Tr,J69U.SI,Real Estate
+23,Frasers HTrust,ACV.SI,Real Estate
+24,Frasers L&C Tr,BUOU.SI,Real Estate
+25,FSL Trust,D8DU.SI,Transportation
+26,HPH Trust SGD,P7VU.SI,
+27,HPH Trust USD,NS8U.SI,Transportation
+28,IREIT Global EUR,8U7U.SI,
+29,IREIT Global SGD,UD1U.SI,Real Estate
+30,Kep Infra Tr,A7RU.SI,Chemicals
+31,KepPacOakReitUSD,CMOU.SI,Real Estate
+32,Keppel DC Reit,AJBU.SI,Real Estate
+33,Keppel Reit,K71U.SI,Real Estate
+34,Lendlease Reit,JYEU.SI,Real Estate
+35,Lippo Malls Tr,D5IU.SI,Real Estate
+36,ManulifeReit USD,BTOU.SI,Real Estate
+37,Mapletree Ind Tr,ME8U.SI,Real Estate
+38,Mapletree Log Tr,M44U.SI,Real Estate
+39,Mapletree PanAsia Com Tr,N2IU.SI,Real Estate
+40,NetLink NBN Tr,CJLU.SI,Telecommunications Services
+41,OUE Com Reit,TS0U.SI,Real Estate
+42,PARAGONREIT,SK6U.SI,Real Estate
+43,ParkwayLife Reit,C2PU.SI,Real Estate
+44,Prime US ReitUSD,OXMU.SI,Real Estate
+45,RHT HealthTrust,RF1U.SI,Industrial & Commercial Services
+46,Sabana Reit,M1GU.SI,Real Estate
+47,Sasseur Reit,CRPU.SI,Real Estate
+48,StarhillGbl Reit,P40U.SI,Real Estate
+49,Suntec Reit,T82U.SI,Real Estate
+50,UtdHampshReitUSD,ODBU.SI,Real Estate
